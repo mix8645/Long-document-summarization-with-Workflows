@@ -1,4 +1,4 @@
-````# MapReduce Summarization API 🤖
+# MapReduce Summarization API 🤖
 
 A FastAPI-based API that summarizes long documents using a MapReduce approach with Google's Gemini AI.
 

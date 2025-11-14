@@ -1,0 +1,905 @@
+{
+  "success": true,
+  "data": [
+    {
+      "metadata": {
+        "file_name": "llm_paper_1.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00001",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 1: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_1.pdf</filename>\n</meta>\n<content>\n# **Paper 1: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_2.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00002",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 2: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_2.pdf</filename>\n</meta>\n<content>\n# **Paper 2: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_3.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00003",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 3: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_3.pdf</filename>\n</meta>\n<content>\n# **Paper 3: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_4.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00004",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 4: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_4.pdf</filename>\n</meta>\n<content>\n# **Paper 4: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_5.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00005",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 5: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_5.pdf</filename>\n</meta>\n<content>\n# **Paper 5: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_6.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00006",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 6: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_6.pdf</filename>\n</meta>\n<content>\n# **Paper 6: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_7.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00007",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 7: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_7.pdf</filename>\n</meta>\n<content>\n# **Paper 7: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_8.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00008",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 8: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_8.pdf</filename>\n</meta>\n<content>\n# **Paper 8: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_9.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00009",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 9: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_9.pdf</filename>\n</meta>\n<content>\n# **Paper 9: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_10.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00010",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 10: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_10.pdf</filename>\n</meta>\n<content>\n# **Paper 10: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_11.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00011",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 11: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_11.pdf</filename>\n</meta>\n<content>\n# **Paper 11: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_12.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00012",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 12: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_12.pdf</filename>\n</meta>\n<content>\n# **Paper 12: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_13.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00013",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 13: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_13.pdf</filename>\n</meta>\n<content>\n# **Paper 13: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_14.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00014",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 14: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_14.pdf</filename>\n</meta>\n<content>\n# **Paper 14: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_15.pdf",
+        "source_url": "https://arxiv.org/abs/2301.00015",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 15: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_15.pdf</filename>\n</meta>\n<content>\n# **Paper 15: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_16.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00016",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 16: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_16.pdf</filename>\n</meta>\n<content>\n# **Paper 16: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_17.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00017",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 17: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_17.pdf</filename>\n</meta>\n<content>\n# **Paper 17: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_18.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00018",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 18: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_18.pdf</filename>\n</meta>\n<content>\n# **Paper 18: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_19.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00019",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 19: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_19.pdf</filename>\n</meta>\n<content>\n# **Paper 19: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_20.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00020",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 20: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_20.pdf</filename>\n</meta>\n<content>\n# **Paper 20: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_21.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00021",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 21: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_21.pdf</filename>\n</meta>\n<content>\n# **Paper 21: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_22.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00022",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 22: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_22.pdf</filename>\n</meta>\n<content>\n# **Paper 22: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_23.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00023",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 23: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_23.pdf</filename>\n</meta>\n<content>\n# **Paper 23: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_24.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00024",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 24: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_24.pdf</filename>\n</meta>\n<content>\n# **Paper 24: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_25.pdf",
+        "source_url": "https://arxiv.org/abs/2302.00025",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 25: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_25.pdf</filename>\n</meta>\n<content>\n# **Paper 25: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_26.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00026",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 26: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_26.pdf</filename>\n</meta>\n<content>\n# **Paper 26: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_27.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00027",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 27: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_27.pdf</filename>\n</meta>\n<content>\n# **Paper 27: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_28.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00028",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 28: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_28.pdf</filename>\n</meta>\n<content>\n# **Paper 28: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_29.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00029",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 29: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_29.pdf</filename>\n</meta>\n<content>\n# **Paper 29: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_30.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00030",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 30: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_30.pdf</filename>\n</meta>\n<content>\n# **Paper 30: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_31.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00031",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 31: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_31.pdf</filename>\n</meta>\n<content>\n# **Paper 31: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_32.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00032",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 32: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_32.pdf</filename>\n</meta>\n<content>\n# **Paper 32: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_33.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00033",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 33: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_33.pdf</filename>\n</meta>\n<content>\n# **Paper 33: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_34.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00034",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 34: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_34.pdf</filename>\n</meta>\n<content>\n# **Paper 34: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_35.pdf",
+        "source_url": "https://arxiv.org/abs/2303.00035",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 35: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_35.pdf</filename>\n</meta>\n<content>\n# **Paper 35: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_36.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00036",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 36: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_36.pdf</filename>\n</meta>\n<content>\n# **Paper 36: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_37.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00037",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 37: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_37.pdf</filename>\n</meta>\n<content>\n# **Paper 37: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_38.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00038",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 38: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_38.pdf</filename>\n</meta>\n<content>\n# **Paper 38: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_39.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00039",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 39: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_39.pdf</filename>\n</meta>\n<content>\n# **Paper 39: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_40.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00040",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 40: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_40.pdf</filename>\n</meta>\n<content>\n# **Paper 40: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_41.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00041",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 41: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_41.pdf</filename>\n</meta>\n<content>\n# **Paper 41: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_42.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00042",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 42: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_42.pdf</filename>\n</meta>\n<content>\n# **Paper 42: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_43.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00043",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 43: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_43.pdf</filename>\n</meta>\n<content>\n# **Paper 43: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_44.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00044",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 44: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_44.pdf</filename>\n</meta>\n<content>\n# **Paper 44: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_45.pdf",
+        "source_url": "https://arxiv.org/abs/2304.00045",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 45: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_45.pdf</filename>\n</meta>\n<content>\n# **Paper 45: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_46.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00046",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 46: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_46.pdf</filename>\n</meta>\n<content>\n# **Paper 46: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_47.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00047",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 47: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_47.pdf</filename>\n</meta>\n<content>\n# **Paper 47: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_48.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00048",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 48: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_48.pdf</filename>\n</meta>\n<content>\n# **Paper 48: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_49.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00049",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 49: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_49.pdf</filename>\n</meta>\n<content>\n# **Paper 49: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_50.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00050",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 50: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_50.pdf</filename>\n</meta>\n<content>\n# **Paper 50: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_51.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00051",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 51: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_51.pdf</filename>\n</meta>\n<content>\n# **Paper 51: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_52.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00052",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 52: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_52.pdf</filename>\n</meta>\n<content>\n# **Paper 52: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_53.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00053",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 53: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_53.pdf</filename>\n</meta>\n<content>\n# **Paper 53: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_54.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00054",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 54: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_54.pdf</filename>\n</meta>\n<content>\n# **Paper 54: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_55.pdf",
+        "source_url": "https://arxiv.org/abs/2305.00055",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 55: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_55.pdf</filename>\n</meta>\n<content>\n# **Paper 55: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_56.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00056",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 56: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_56.pdf</filename>\n</meta>\n<content>\n# **Paper 56: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_57.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00057",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 57: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_57.pdf</filename>\n</meta>\n<content>\n# **Paper 57: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_58.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00058",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 58: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_58.pdf</filename>\n</meta>\n<content>\n# **Paper 58: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_59.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00059",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 59: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_59.pdf</filename>\n</meta>\n<content>\n# **Paper 59: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_60.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00060",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 60: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_60.pdf</filename>\n</meta>\n<content>\n# **Paper 60: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_61.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00061",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 61: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_61.pdf</filename>\n</meta>\n<content>\n# **Paper 61: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_62.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00062",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 62: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_62.pdf</filename>\n</meta>\n<content>\n# **Paper 62: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_63.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00063",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 63: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_63.pdf</filename>\n</meta>\n<content>\n# **Paper 63: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_64.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00064",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 64: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_64.pdf</filename>\n</meta>\n<content>\n# **Paper 64: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_65.pdf",
+        "source_url": "https://arxiv.org/abs/2306.00065",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 65: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_65.pdf</filename>\n</meta>\n<content>\n# **Paper 65: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_66.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00066",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 66: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_66.pdf</filename>\n</meta>\n<content>\n# **Paper 66: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_67.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00067",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 67: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_67.pdf</filename>\n</meta>\n<content>\n# **Paper 67: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_68.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00068",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 68: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_68.pdf</filename>\n</meta>\n<content>\n# **Paper 68: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_69.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00069",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 69: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_69.pdf</filename>\n</meta>\n<content>\n# **Paper 69: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_70.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00070",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 70: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_70.pdf</filename>\n</meta>\n<content>\n# **Paper 70: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_71.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00071",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 71: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_71.pdf</filename>\n</meta>\n<content>\n# **Paper 71: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_72.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00072",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 72: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_72.pdf</filename>\n</meta>\n<content>\n# **Paper 72: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_73.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00073",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 73: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_73.pdf</filename>\n</meta>\n<content>\n# **Paper 73: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_74.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00074",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 74: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_74.pdf</filename>\n</meta>\n<content>\n# **Paper 74: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_75.pdf",
+        "source_url": "https://arxiv.org/abs/2307.00075",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 75: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_75.pdf</filename>\n</meta>\n<content>\n# **Paper 75: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_76.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00076",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 76: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_76.pdf</filename>\n</meta>\n<content>\n# **Paper 76: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_77.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00077",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 77: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_77.pdf</filename>\n</meta>\n<content>\n# **Paper 77: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_78.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00078",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 78: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_78.pdf</filename>\n</meta>\n<content>\n# **Paper 78: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_79.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00079",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 79: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_79.pdf</filename>\n</meta>\n<content>\n# **Paper 79: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_80.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00080",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 80: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_80.pdf</filename>\n</meta>\n<content>\n# **Paper 80: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_81.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00081",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 81: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_81.pdf</filename>\n</meta>\n<content>\n# **Paper 81: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_82.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00082",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 82: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_82.pdf</filename>\n</meta>\n<content>\n# **Paper 82: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_83.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00083",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 83: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_83.pdf</filename>\n</meta>\n<content>\n# **Paper 83: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_84.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00084",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 84: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_84.pdf</filename>\n</meta>\n<content>\n# **Paper 84: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_85.pdf",
+        "source_url": "https://arxiv.org/abs/2308.00085",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 85: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_85.pdf</filename>\n</meta>\n<content>\n# **Paper 85: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_86.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00086",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 86: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_86.pdf</filename>\n</meta>\n<content>\n# **Paper 86: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_87.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00087",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 87: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_87.pdf</filename>\n</meta>\n<content>\n# **Paper 87: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_88.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00088",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 88: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_88.pdf</filename>\n</meta>\n<content>\n# **Paper 88: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_89.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00089",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 89: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_89.pdf</filename>\n</meta>\n<content>\n# **Paper 89: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_90.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00090",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 90: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_90.pdf</filename>\n</meta>\n<content>\n# **Paper 90: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_91.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00091",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 91: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_91.pdf</filename>\n</meta>\n<content>\n# **Paper 91: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_92.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00092",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 92: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_92.pdf</filename>\n</meta>\n<content>\n# **Paper 92: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_93.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00093",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 93: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_93.pdf</filename>\n</meta>\n<content>\n# **Paper 93: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_94.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00094",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 94: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_94.pdf</filename>\n</meta>\n<content>\n# **Paper 94: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_95.pdf",
+        "source_url": "https://arxiv.org/abs/2309.00095",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 95: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_95.pdf</filename>\n</meta>\n<content>\n# **Paper 95: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_96.pdf",
+        "source_url": "https://arxiv.org/abs/2310.00096",
+        "tags": "LLM,scaling,transformers,AI,research"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 96: A Study on LLM Scaling Laws**</section>\n  <filename>llm_paper_96.pdf</filename>\n</meta>\n<content>\n# **Paper 96: A Study on LLM Scaling Laws**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_97.pdf",
+        "source_url": "https://arxiv.org/abs/2310.00097",
+        "tags": "LLM,reasoning,emergent-abilities,benchmarks"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 97: Emergent Abilities in Large Language Models**</section>\n  <filename>llm_paper_97.pdf</filename>\n</meta>\n<content>\n# **Paper 97: Emergent Abilities in Large Language Models**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_98.pdf",
+        "source_url": "https://arxiv.org/abs/2310.00098",
+        "tags": "LLM,RAG,NLP,knowledge,retrieval"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 98: Retrieval-Augmented Generation for NLP**</section>\n  <filename>llm_paper_98.pdf</filename>\n</meta>\n<content>\n# **Paper 98: Retrieval-Augmented Generation for NLP**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_99.pdf",
+        "source_url": "https://arxiv.org/abs/2310.00099",
+        "tags": "LLM,alignment,ethics,instruction-tuning,RLHF"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 99: Instruction-Tuning and Model Alignment**</section>\n  <filename>llm_paper_99.pdf</filename>\n</meta>\n<content>\n# **Paper 99: Instruction-Tuning and Model Alignment**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    },
+    {
+      "metadata": {
+        "file_name": "llm_paper_100.pdf",
+        "source_url": "https://arxiv.org/abs/2310.00100",
+        "tags": "LLM,multimodal,VLM,vision,language"
+      },
+      "score": 1,
+      "content": "<meta>\n  <section>**Paper 100: Multimodal Transformers for Vision and Language**</section>\n  <filename>llm_paper_100.pdf</filename>\n</meta>\n<content>\n# **Paper 100: Multimodal Transformers for Vision and Language**\n\n\n- 1. Abstract\n- ๒. Introduction\n- ๓. Methodology\n- 4. Experiments\n- ๕. Results\n- ๖. Conclusion\n</content>"
+    }
+  ]
+}
